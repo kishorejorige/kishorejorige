@@ -18,4 +18,3 @@ Hi, I'm Kishore Kumar Jorige. I specialize in AI automation, AI agents and chatb
 
 * [Website](https://kishorejorige.github.io)
 * [YouTube](https://youtube.com/shorts/sXAjplrm0W8)
-* [GitHub](https://github.com/kishorejorige)
